@@ -10,12 +10,14 @@ I'm currently working on a [Discord Bot] and it is my first time utilizing
 node.js and other javascript related entities. 
 
 The thing that sparked my interest on software programming was when I really wanted 
-to create an automation for a game I used to play during my high school days (sophomore).
-Learned some programming languages on my own like Visual Basic(.NET), C#(.NET), and AutoIT. 
+to create an automation for a game I used to play during my high school (sophomore) 
+days. Learned some programming languages along the way like Visual Basic(.NET), C#(.NET), 
+and AutoIT to try to achieve what I've had in mind. Few years have passed and now I'm close 
+to graduating as a Computer Engineer! ✨
 
-I'm mostly active on [Discord], so if you ever want to get in contact with 
-me then you can best do so by joining [this Discord server] (your friends can
-join here too). Cheers!
+I'm mostly active on [Discord], so if you ever want to get in contact with me then 
+you can best do so by joining [this Discord server] (your friends can join here too). 
+Cheers!
 
 #### Some stats about me!
 
