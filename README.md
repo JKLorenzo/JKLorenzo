@@ -15,10 +15,6 @@ days. Learned some programming languages along the way like Visual Basic(.NET), 
 and AutoIT to try to achieve what I've had in mind. Few years have passed and now I'm close 
 to graduating as a Computer Engineer! ✨
 
-I'm mostly active on [Discord], so if you ever want to get in contact with me then 
-you can best do so by joining [this Discord server] (your friends can join here too). 
-Cheers!
-
 #### Some stats about me!
 
 <table>
