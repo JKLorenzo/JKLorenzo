@@ -1,21 +1,20 @@
 ## Hello there 👋
 
-<img src="https://komarev.com/ghpvc/?username=JKLorenzo" alt="kyranet" />
+<img src="https://komarev.com/ghpvc/?username=JKLorenzo" alt="JKLorenzo Profile Views" />
 
 My name is Juruel Keanu Lorenzo, I am from Bacolod City (Philippines), and I am
-a 3rd Year Computer Engineering student at University of St. La Salle.
+a 4th Year Computer Engineering student at the University of St. La Salle.
 
-I enjoy testing stuff out and usually develops softwares out of curiosity. 
-I'm currently working on a [Discord Bot] and it is my first time utilizing 
-node.js and other javascript related entities. 
+I enjoy testing stuff out and usually develop software out of curiosity. 
+I'm currently working on a [Discord Bot] written using TypeScript to learn more about TS.
+I previously made a similar bot utilizing JavaScript, which can be found [here].
 
-The thing that sparked my interest on software programming was when I really wanted 
-to create an automation for a game I used to play during my high school (sophomore) 
-days. Learned some programming languages along the way like Visual Basic(.NET) and 
-C#(.NET) to try to achieve what I've had in mind. Few years have passed and now I'm 
-close to graduating as a Computer Engineer! ✨
+The thing that sparked my interest in software programming was when I really wanted to create 
+an automation for a game I used to play during my high school days. Learned some programming 
+languages along the way, like Visual Basic and C#, to try to achieve what I've had in mind. 
+Few years have passed, now I'm close to graduating as a Computer Engineer! ✨
 
-#### Some stats about me!
+### Some stats about me! 
 
 <table>
   <tr>
@@ -28,9 +27,9 @@ close to graduating as a Computer Engineer! ✨
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`]
+Provided by [`GitHub Readme Stats`]
 
 [Discord]:               https://discord.com
-[Discord Bot]:           https://github.com/JKLorenzo/Quarantine-Gaming
-[this Discord server]:   https://discord.gg/4HnBVxpyqf
+[Discord Bot]:           https://github.com/JKLorenzo/Lexa
+[here]:                  https://github.com/JKLorenzo/Quarantine-Gaming
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
