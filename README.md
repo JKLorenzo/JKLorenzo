@@ -30,6 +30,6 @@ Few years have passed, now I'm close to graduating as a Computer Engineer! ✨
 Provided by [`GitHub Readme Stats`]
 
 [Discord]:               https://discord.com
-[Discord Bot]:           https://github.com/JKLorenzo/Lexa
-[here]:                  https://github.com/JKLorenzo/Quarantine-Gaming
+[Discord Bot]:           https://github.com/JKLorenzo/Quarantine-Gaming
+[here]:                  https://github.com/JKLorenzo/Quarantine-Gaming-JS
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
