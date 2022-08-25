@@ -2,17 +2,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=JKLorenzo" alt="JKLorenzo Profile Views" />
 
-My name is Juruel Keanu Lorenzo, I am from Bacolod City (Philippines), and I am
-a 4th Year Computer Engineering student at the University of St. La Salle.
+My name is Juruel Keanu Lorenzo from the Philippines, and I am a Computer Engineering graduate 
+from the University of St. La Salle.
 
-I enjoy testing stuff out and usually develop software out of curiosity. 
-I'm currently working on a [Discord Bot] written using TypeScript to learn more about TS.
-I previously made a similar bot utilizing JavaScript, which can be found [here].
+I enjoy testing stuff out and usually develop software out of curiosity. The thing that sparked my 
+interest in software programming was when I really wanted to create an automation for a game I used 
+to play during my high school days. Learned some programming languages along the way, like Visual 
+Basic.NET and C#.NET, to try to achieve what I've had in mind. 
 
-The thing that sparked my interest in software programming was when I really wanted to create 
-an automation for a game I used to play during my high school days. Learned some programming 
-languages along the way, like Visual Basic and C#, to try to achieve what I've had in mind. 
-Few years have passed, now I'm close to graduating as a Computer Engineer! ✨
+I'm currently working on a personal project which I named [Parallax], a Discord bot running under 
+Node.js, to learn more about TypeScript.
 
 ### Some stats about me! 
 
@@ -29,7 +28,5 @@ Few years have passed, now I'm close to graduating as a Computer Engineer! ✨
 
 Provided by [`GitHub Readme Stats`]
 
-[Discord]:               https://discord.com
-[Discord Bot]:           https://github.com/JKLorenzo/Parallax
-[here]:                  https://github.com/JKLorenzo/Quarantine-Gaming
+[Parallax]:              https://github.com/JKLorenzo/Parallax
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
