@@ -1,19 +1,25 @@
-## Hello there 👋
+# Hello there 👋
 
-<img src="https://komarev.com/ghpvc/?username=JKLorenzo" alt="JKLorenzo Profile Views" />
+![JKLorenzo Profile Views](https://komarev.com/ghpvc/?username=JKLorenzo)
 
-My name is Juruel Keanu Lorenzo from the Philippines, and I am a Computer Engineering graduate 
+My name is Juruel Keanu Lorenzo from the Philippines, and I am a Computer Engineering graduate
 from the University of St. La Salle.
 
-I enjoy testing stuff out and usually develop software out of curiosity. The thing that sparked my 
-interest in software programming was when I really wanted to create an automation for a game I used 
-to play during my high school days. Learned some programming languages along the way, like Visual 
-Basic.NET and C#.NET, to try to achieve what I've had in mind. 
+I enjoy testing stuff out and usually develop software out of curiosity. The thing that sparked my
+interest in software programming was when I really wanted to create an automation for a game I used
+to play during my high school days. Learned some programming languages along the way, like Visual
+Basic.NET and C#.NET, to try to achieve what I've had in mind.
 
-I'm currently working on a personal project which I named [Parallax], a Discord bot running under 
-Node.js, to learn more about TypeScript.
+I'm currently working on a personal project which I named [Parallax](https://github.com/JKLorenzo/Parallax), 
+a Discord bot running under Node.js, to learn more about TypeScript.
 
-### Some stats about me! 
+---
+
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+## :chart: Some stats about me
 
 <table>
   <tr>
@@ -25,8 +31,3 @@ Node.js, to learn more about TypeScript.
     </td>
   </tr>
 </table>
-
-Provided by [`GitHub Readme Stats`]
-
-[Parallax]:              https://github.com/JKLorenzo/Parallax
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
