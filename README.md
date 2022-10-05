@@ -18,6 +18,12 @@ a Discord bot running under Node.js, to learn more about TypeScript.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#184](https://github.com/JKLorenzo/Parallax/pull/184) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
+2. 🎉 Merged PR [#181](https://github.com/JKLorenzo/Parallax/pull/181) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
+3. 💪 Opened PR [#181](https://github.com/JKLorenzo/Parallax/pull/181) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
+4. 🎉 Merged PR [#180](https://github.com/JKLorenzo/Parallax/pull/180) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
+5. 🗣 Commented on [#179](https://github.com/JKLorenzo/Parallax/issues/179) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
+<!--END_SECTION:activity-->
 
 ## :chart: Some stats about me
 
