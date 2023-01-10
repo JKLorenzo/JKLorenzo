@@ -18,11 +18,11 @@ a Discord bot running under Node.js, to learn more about TypeScript.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#218](https://github.com/JKLorenzo/Parallax/pull/218) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
-2. 🎉 Merged PR [#214](https://github.com/JKLorenzo/Parallax/pull/214) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
-3. 🎉 Merged PR [#221](https://github.com/JKLorenzo/Parallax/pull/221) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
-4. 🎉 Merged PR [#203](https://github.com/JKLorenzo/Parallax/pull/203) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
-5. 🎉 Merged PR [#195](https://github.com/JKLorenzo/Parallax/pull/195) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
+1. ❌ Closed PR [#1](https://github.com/JKLorenzo/APTX-API/pull/1) in [JKLorenzo/APTX-API](https://github.com/JKLorenzo/APTX-API)
+2. 🎉 Merged PR [#1](https://github.com/JKLorenzo/OSI-SIM/pull/1) in [JKLorenzo/OSI-SIM](https://github.com/JKLorenzo/OSI-SIM)
+3. 🎉 Merged PR [#229](https://github.com/JKLorenzo/Parallax/pull/229) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
+4. 🎉 Merged PR [#1](https://github.com/JKLorenzo/github-readme-stats/pull/1) in [JKLorenzo/github-readme-stats](https://github.com/JKLorenzo/github-readme-stats)
+5. 🎉 Merged PR [#218](https://github.com/JKLorenzo/Parallax/pull/218) in [JKLorenzo/Parallax](https://github.com/JKLorenzo/Parallax)
 <!--END_SECTION:activity-->
 
 ## :chart: Some stats about me
